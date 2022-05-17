@@ -3,10 +3,10 @@ Your average Linux distribution.
 
 Blue Wave is Arcb-based BTW. Meaning that it uses the 'pacman' package manager! (but i'm sure you'd expect that by now) 
 
-It comes in two desktop environments: XFCE and LXQT.
+It comes in two editions: Tsunami and Splash.
 
-YOOOO IT HAS THE CHAOTIC-AUR REPO ASWELL
+Want a standard Linux distribution with what you'd probably want? Go for the Tsunami edition.
 
-But you may ask about the system requirements. I have no idea to be honest what it'll be.
+Want a lightweight edition if yours could probably fry eggs by now? The Splash edition has got your back!
 
-NOTE: The project is currently in beta. So yes, bugs do happen here and there.
+COMING SOON ON MAY 29 BOIII
