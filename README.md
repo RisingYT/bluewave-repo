@@ -11,10 +11,10 @@ Want to take it to the max and brag about how great you are when it comes to usi
 
 Yes! All of the three editions are available for just... How much did you guess?
 
-Five hundred? A thousand? EVEN MORE?! No, it's costs nothing! That's right it's free! It's an incredible opportunity but it's true! No more to stupid paid licenses and telemetry spying on you! It's Blue Wave made by your's truly. You can download it now today!
+Five hundred? A thousand? EVEN MORE?! No, it's costs nothing! That's right it's free! It's an incredible opportunity but it's true! No more to stupid paid licenses and telemetry spying on you! It's Blue Wave made by yours truly. You can download it now today!
 
 But except in Pyongyang.
 
 NOTES:
 
-This repository basically has the entire source code for all the currently available Blue Wave versions. If you want to build the ISO yourself, then CD into the folder (the folder that was created when you git cloned it) and then do a mkarchiso -v (whatever version you want). But note, you need to have archiso installed to do this.
+This repository basically has the entire source code for all the currently available Blue Wave versions. If you want to build the ISO yourself, then CD into the folder (the folder that was created when you git cloned it) and then do a mkarchiso -v (whatever version you want). But note, you need to have archiso installed to do this. Also go to https://github.com/RisingYT/bluewave/wiki to read the handbook. It has the info you need before installing.
