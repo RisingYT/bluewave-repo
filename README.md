@@ -1,7 +1,5 @@
 # bluewave
-Your average Linux distribution.
-
-Blue Wave is Arcb-based BTW. Meaning that it uses the 'pacman' package manager! (but i'm sure you'd expect that by now) 
+Your average Arch-based Linux distribution.
 
 It comes in three editions: Tsunami, Splash, and Flow.
 
