@@ -15,4 +15,6 @@ Five hundred? A thousand? EVEN MORE?! No, it's costs nothing! That's right it's 
 
 But except in Pyongyang.
 
-Also credits to the Arch Linux GUI project because it has some code from it.
+NOTES:
+
+This repository basically has the entire source code for all the currently available Blue Wave versions. If you want to build the ISO yourself, then CD into the folder (the folder that was created when you git cloned it) and then do a mkarchiso -v (whatever version you want). But note, you need to have archiso installed to do this.
