@@ -15,6 +15,6 @@ Yes! All of the three editions are available for just... How much did you guess?
 
 Five hundred? A thousand? EVEN MORE?! No, it's costs nothing! That's right it's free! It's an incredible opportunity but it's true! No more to stupid paid licenses and telemetry spying on you! It's Blue Wave made by your's truly. You can download it now today!
 
-Except in Pyongyang.
+But except in Pyongyang.
 
 Also credits to the Arch Linux GUI project because it has some code from it.
