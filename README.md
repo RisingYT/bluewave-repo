@@ -21,4 +21,4 @@ This repository basically has the entire source code for all the currently avail
 
 oh forgot to mention download link is https://bit.ly/3LY9HtQ
 
-Made by a dude from The Philippines 🇵🇭
+Made in The Philippines 🇵🇭
