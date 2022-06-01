@@ -17,7 +17,7 @@ But except in Pyongyang.
 
 NOTES:
 
-This repository basically has the entire source code for all the currently available Blue Wave versions. If you want to build the ISO yourself, then CD into the folder (the folder that was created when you git cloned it) and then do a mkarchiso -v (whatever version you want). But note, you need to have archiso installed to do this. Also go to https://github.com/RisingYT/bluewave/wiki to read the handbook. It has the info you need before installing.
+This repository basically has the entire source code for all the currently available Blue Wave versions. If you want to build the ISO yourself, then CD into the folder (the folder that was created when you git cloned it) and then do a mkarchiso -v (whatever version you want). But note, you need to have archiso installed to do this. Also go to https://github.com/RisingYT/bluewave/wiki to read the wiki/guide. It has the info you need before installing.
 
 oh forgot to mention download link is https://bit.ly/3LY9HtQ
 
