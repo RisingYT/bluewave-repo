@@ -21,4 +21,6 @@ This repository basically has the entire source code for all the currently avail
 
 oh forgot to mention download link is https://bit.ly/3LY9HtQ
 
+contains some code from arch linux gui so thanks to them. their github is this: https://github.com/arch-linux-gui
+
 Made in The Philippines 🇵🇭
