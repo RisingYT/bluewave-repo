@@ -172,7 +172,6 @@ polkit
 lxqt
 kvantum
 openbox
-mugshot
 ttf-hannom
 ttf-khmer
 htop
@@ -208,6 +207,7 @@ chaotic-keyring
 chaotic-mirrorlist
 gnome-keyring
 noto-fonts
+jdk-openjdk
 
 #nvidiastuff
 nvidia-lts
