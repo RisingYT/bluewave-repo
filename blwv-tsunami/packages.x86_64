@@ -174,7 +174,7 @@ archlinux-keyring
 git
 wget
 seahorse
-calamares
+alci-calamares
 gvfs
 grub-btrfs
 os-prober
@@ -238,6 +238,7 @@ mkinitcpio-firmware
 usbimager
 chaotic-keyring
 chaotic-mirrorlist
+smartmontools
 
 #Themes and configs
 fluent-icon-theme-git

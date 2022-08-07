@@ -153,6 +153,7 @@ spice-vdagent
 #More default packages for Blue Wave
 fish
 lightdm
+lightdm-gtk-greeter
 xorg
 leafpad
 xorg-xinit
@@ -161,7 +162,7 @@ archlinux-keyring
 git
 wget
 seahorse
-calamares
+alci-calamares
 gvfs
 grub-btrfs
 os-prober
@@ -207,6 +208,7 @@ chaotic-keyring
 chaotic-mirrorlist
 gnome-keyring
 noto-fonts
+smartmontools
 
 #Themes and configs
 fluent-icon-theme-git
