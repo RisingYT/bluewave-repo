@@ -37,8 +37,6 @@ grml-zsh-config
 grub
 hdparm
 intel-ucode
-ipw2100-fw
-ipw2200-fw
 irssi
 iw
 iwd
@@ -123,9 +121,8 @@ gnome-system-tools
 gtk2
 gtk3
 gtk4
-vala-panel
-vala-panel-appmenu-xfce-git
-vala-panel-appmenu-common-git
+#vala-panel-appmenu-common-git
+#vala-panel-appmenu-xfce-git
 
 #Extra package managers
 pamac
@@ -166,6 +163,7 @@ qemu-guest-agent
 spice-vdagent
 
 #More preinstalled packages for Blue Wave
+apfs-fuse-git
 fish
 xorg
 xorg-xinit
@@ -174,7 +172,7 @@ archlinux-keyring
 git
 wget
 seahorse
-alci-calamares
+calamares
 gvfs
 grub-btrfs
 os-prober

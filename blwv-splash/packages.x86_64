@@ -6,7 +6,7 @@ base
 beep
 bind-tools
 brltty
-broadcom-wl
+broadcom-wl-dkms
 btrfs-progs
 clonezilla
 cloud-init
@@ -37,8 +37,6 @@ grml-zsh-config
 grub
 hdparm
 intel-ucode
-ipw2100-fw
-ipw2200-fw
 irssi
 iw
 iwd
@@ -151,6 +149,8 @@ qemu-guest-agent
 spice-vdagent
 
 #More default packages for Blue Wave
+apfs-fuse-git
+onlyoffice-bin
 fish
 lightdm
 lightdm-gtk-greeter
@@ -162,7 +162,7 @@ archlinux-keyring
 git
 wget
 seahorse
-alci-calamares
+calamares
 gvfs
 grub-btrfs
 os-prober
@@ -171,7 +171,6 @@ brave-bin
 appimagelauncher
 alacritty
 fish
-vlc
 noto-fonts-emoji
 timeshift
 fakeroot
