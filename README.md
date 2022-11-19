@@ -9,6 +9,4 @@ contains some code from arch linux gui so thanks to them. their github is this: 
 
 Made in The Philippines 🇵🇭
 
-Download links:
-* IceDrive link: https://bit.ly/3yfBNf8
-* Google Drive Link (Old, no longer maintained): https://bit.ly/3LY9HtQ
+Download link to ISOs: https://bit.ly/3yfBNf8
