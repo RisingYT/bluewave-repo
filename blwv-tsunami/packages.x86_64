@@ -121,8 +121,8 @@ gnome-system-tools
 gtk2
 gtk3
 gtk4
-#vala-panel-appmenu-common-git
-#vala-panel-appmenu-xfce-git
+vala-panel-appmenu-common
+vala-panel-appmenu-xfce
 
 #Extra package managers
 pamac
@@ -164,7 +164,7 @@ spice-vdagent
 
 #More preinstalled packages for Blue Wave
 apfs-fuse-git
-fish
+openssl-1.1
 xorg
 xorg-xinit
 xorg-server
@@ -172,7 +172,7 @@ archlinux-keyring
 git
 wget
 seahorse
-calamares
+calamares-alci
 gvfs
 grub-btrfs
 os-prober

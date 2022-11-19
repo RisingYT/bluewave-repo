@@ -6,7 +6,7 @@ base
 beep
 bind-tools
 brltty
-broadcom-wl-dkms
+broadcom-wl
 btrfs-progs
 clonezilla
 cloud-init
@@ -151,7 +151,7 @@ spice-vdagent
 #More default packages for Blue Wave
 apfs-fuse-git
 onlyoffice-bin
-fish
+openssl-1.1
 lightdm
 lightdm-gtk-greeter
 xorg
@@ -162,7 +162,7 @@ archlinux-keyring
 git
 wget
 seahorse
-calamares
+calamares-alci
 gvfs
 grub-btrfs
 os-prober
