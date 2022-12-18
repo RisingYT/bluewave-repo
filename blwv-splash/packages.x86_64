@@ -121,8 +121,8 @@ gnome-system-tools
 network-manager-applet
 
 #Extra package managers
-pamac
-aura
+pamac-nosnap
+paru
 
 #Kernel
 linux-lts
@@ -170,6 +170,7 @@ gparted
 brave-bin
 appimagelauncher
 alacritty
+motivate
 fish
 noto-fonts-emoji
 timeshift

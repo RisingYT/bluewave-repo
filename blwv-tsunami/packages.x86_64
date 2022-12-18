@@ -125,8 +125,8 @@ vala-panel-appmenu-common
 vala-panel-appmenu-xfce
 
 #Extra package managers
-pamac
-aura
+pamac-nosnap
+paru
 
 #Display manager
 lightdm
@@ -139,12 +139,6 @@ linux-zen-headers
 #Wine API
 wine
 winetricks
-
-#Games
-gnome-mines
-gzdoom
-doom1-wad
-supertux
 
 #Graphics drivers
 xf86-input-libinput
@@ -181,6 +175,7 @@ brave-bin
 appimagelauncher
 alacritty
 fish
+motivate
 strawberry
 noto-fonts-emoji
 onlyoffice-bin
