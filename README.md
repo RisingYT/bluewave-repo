@@ -9,4 +9,8 @@ contains some code from arch linux gui so thanks to them. their github is this: 
 
 Made in The Philippines 🇵🇭
 
+![oceandsktop](https://user-images.githubusercontent.com/64306333/213684563-3804b6e1-32e0-4d71-85e8-8713643a4193.png)
+
+
+
 Download link to ISOs: https://bit.ly/3yfBNf8
