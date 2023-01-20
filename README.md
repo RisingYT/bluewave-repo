@@ -10,6 +10,7 @@ contains some code from arch linux gui so thanks to them. their github is this: 
 Made in The Philippines 🇵🇭
 
 ![oceandsktop](https://user-images.githubusercontent.com/64306333/213684563-3804b6e1-32e0-4d71-85e8-8713643a4193.png)
+![riverdsktopscrn](https://user-images.githubusercontent.com/64306333/213685203-ca51d4e3-dec9-4392-95d2-865cc9695ea3.png)
 
 
 
