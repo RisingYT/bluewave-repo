@@ -242,6 +242,7 @@ usbimager
 chaotic-keyring
 chaotic-mirrorlist
 smartmontools
+gnome-dictionary
 
 #Themes and configs
 fluent-icon-theme-git

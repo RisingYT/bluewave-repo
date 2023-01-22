@@ -150,7 +150,7 @@ spice-vdagent
 
 #More default packages for Blue Wave
 apfs-fuse-git
-onlyoffice-bin
+libreoffice-fresh
 openssl-1.1
 lightdm
 lightdm-gtk-greeter
@@ -167,7 +167,7 @@ gvfs
 grub-btrfs
 os-prober
 gparted
-brave-bin
+midori
 appimagelauncher
 alacritty
 motivate
@@ -175,7 +175,6 @@ fish
 noto-fonts-emoji
 timeshift
 fakeroot
-curl
 libarchive
 pipewire
 wireplumber
