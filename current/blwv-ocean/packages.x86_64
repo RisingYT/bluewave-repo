@@ -211,6 +211,7 @@ zip
 pcmanfm-gtk3
 galculator
 bluefetch
+plymouth
 plymouth-theme-liquid-git
 archlinux-appstream-data-pamac
 noto-fonts-cjk
@@ -219,7 +220,7 @@ otf-ipafont
 ttf-hannom
 ttf-khmer
 ttf-monaco
-htop
+btop
 mpv
 syssnd
 mesa
@@ -243,6 +244,7 @@ chaotic-keyring
 chaotic-mirrorlist
 smartmontools
 gnome-dictionary
+timeshift-autosnap
 
 #Themes and configs
 fluent-icon-theme-git
@@ -251,10 +253,9 @@ everforest-gtk-theme-git
 bluewave-ocean-cfg
 
 #Things for NVIDIA
-nvidia-dkms
+nvidia-open-dkms
 nvidia-utils
 nvidia-settings
 
 #Packages that are meant only for the live environment
-sudo
 calamares-alci

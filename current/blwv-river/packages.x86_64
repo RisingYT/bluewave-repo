@@ -163,6 +163,10 @@ wget
 volantes-cursors
 seahorse
 gvfs
+gvfs-afc
+gvfs-gphoto2
+gvfs-mtp
+gvfs-smb
 grub-btrfs
 os-prober
 gparted
@@ -194,7 +198,7 @@ otf-ipafont
 polkit
 ttf-hannom
 ttf-khmer
-htop
+btop
 mpv
 mtpfs
 xdg-user-dirs
@@ -212,6 +216,10 @@ onboard
 orca
 espeak-ng
 cups
+timeshift-autosnap
+arandr
+plymouth-theme-liquid-git
+plymouth
 
 #Themes and configs
 fluent-icon-theme-git
@@ -219,10 +227,9 @@ nordic-darker-theme
 bluewave-river-cfg
 
 #Things for NVIDIA
-nvidia-lts
+nvidia-open
 nvidia-utils
 nvidia-settings
 
 #Packages that are meant only for the live environment
-sudo
 calamares-alci
